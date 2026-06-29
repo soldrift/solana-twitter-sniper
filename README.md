@@ -17,7 +17,7 @@ Telegram: [@soldrift](https://t.me/devbeast5775) <br>
 1. Clone the repository
 
     ```
-    git clone https://github.com/whistledev411/solana-twitter-sniper.git
+    git clone https://github.com/soldrift/solana-twitter-sniper.git
     cd solana-twitter-sniper
     ```
 2. Install dependencies
